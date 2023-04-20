@@ -1,2 +1,2 @@
 # handofblood
-A HandOfBlood Mod for Minecraft Forge
+A HandOfBlood mod for Minecraft Forge
