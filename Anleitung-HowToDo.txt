@@ -1,0 +1,12 @@
+1. Make sure Minecraft and Minecraft Launcher is closed.
+2. Execute "Minecraft-Forge-1.19.2.jar".
+3. Install Forge by following the steps showen on your screen.
+4. Open your Minecraft folder and but the "handofblood-mod.jar" in the mods folder.
+
+
+How to find your Minecraft folder:
+https://www.wikihow.com/Access-Your-.Minecraft-Folder-on-the-Computer#:~:text=If%20you%20are%20on%20Windows,be%20able%20to%20find%20your%20.
+
+
+Mod-Version: 1.0.1
+form KrogieTV
